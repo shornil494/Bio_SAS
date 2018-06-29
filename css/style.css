@@ -1,0 +1,46 @@
+/*
+Theme Name: Biometric Student Management System;
+Theme URI : http://www.sornil-profile.com;
+*/
+a{
+	text-decoration: none;
+	color:none;
+
+}
+a:hover{
+	text-decoration: none; color:none;
+}
+
+body{ /*body default style.*/ }
+
+/*header style*/
+.section-header{  }
+.section-header .logo{}
+.section-header .logo-image{
+	line-height: 30px; margin:10px auto;
+}
+}
+.section-header .title{
+	font-size:200%;
+}
+.section-header .title a{ line-height: 2.8em; }
+/*header style end*/
+
+/*content style*/
+.section-content{
+	min-height: 300px;
+}
+
+/*content style end*/
+
+/*footer style*/
+.section-footer{}
+.section-footer .logo-image{ margin:0px auto; }
+/*footer style end*/
+
+/*common states*/
+.section-header,.section-footer{
+	background-color: ;
+	color:#d7d7d7;
+	min-height: 70px;
+}
